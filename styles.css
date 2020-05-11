@@ -1,0 +1,52 @@
+.title {
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  margin: 6px;
+  background-color: gray;
+  color: black
+}
+
+.smallbio {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 25px;
+  margin-bottom: 25px
+}
+
+.carousel-inner {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.card1 {
+  margin-left: 75px;
+  margin-top: 50px
+}
+
+.card2 {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  background-color: black;
+}
+
+.grid-item {
+  text-align: center;
+}
+
+.biggerbio {
+  margin: 25px
+}
+
+.card {
+  margin-left: 75px
+}
+
+.photos {
+  text-align: center;
+}
